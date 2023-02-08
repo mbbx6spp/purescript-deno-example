@@ -17,7 +17,6 @@ to generate this file without the comments in this block.
   , "console"
   , "deno"
   , "effect"
-  , "either"
   , "foreign-object"
   , "generic-router"
   , "maybe"
